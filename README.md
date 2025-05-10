@@ -55,9 +55,4 @@ The analysis follows a comprehensive time series modeling approach:
 - Investigate alternative time series approaches (e.g., SARIMA, Prophet)
 - Destandardize data for improved interpretability of error metrics
 
-## Repository Structure
-- `hospital_revenue_analysis.py`: Main Python script containing the analysis and modeling code
-- `hospital_revenue_data.csv`: Cleaned dataset with daily revenue values
-- Document containing full analysis report with visualizations and interpretations
-
 *This project was completed as part of a Data Analytics course (D213).*
