@@ -50,9 +50,7 @@ The analysis follows a comprehensive time series modeling approach:
 - SciPy for spectral analysis
 
 ## Future Work
-- Incorporate additional variables to better understand external influences on revenue
 - Explore more flexible models to capture the natural oscillations in revenue
-- Investigate alternative time series approaches (e.g., SARIMA, Prophet)
 - Destandardize data for improved interpretability of error metrics
 
 *This project was completed as part of a Data Analytics course (D213).*
